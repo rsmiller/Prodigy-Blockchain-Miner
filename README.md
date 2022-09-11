@@ -1,7 +1,7 @@
 # Prodigy Blockchain Miner
 This project contains the miner code for Prodigy Blockchain, a certificate document-based blockchain.
 
-Please read the [documentation regarding Prodigy Blockchain](https://prodigychain.bit.ai/docs/view/j9xA8uLDLVOgIZtL) to understand the use cases.
+Please read the [documentation regarding Prodigy Blockchain](https://prodigychain.bit.ai/rdc/j9xA8uLDLVOgIZtL) to understand the use cases.
 
 ## Use Case for Prodigy Blockchain
 The use case for Prodigy is storing simple documents like manufacturing product certificates, certificates of conformance, certificates of test, and more. These documents are encrypted and stored in a block on a chain that is accessible via a unique identifier like a serial number, document number, or order number. 
