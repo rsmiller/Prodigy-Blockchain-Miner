@@ -8,8 +8,6 @@ The use case for Prodigy is storing simple documents like manufacturing product 
 
 This product is not made for worldwide general use. This is made for manufacturing companies to allow their customers access to those certificates in a unique and marketable way.
 
-Mining is simply an audit mechanism and doesn't need to exist outside of auditing in this use case. However, for marketability, mining allows employees of a company to earn tokens/coins that can be spent for days off, company merchandise, or whatever in a company store. How this is done is in the [block explorer project](https://github.com/rsmiller/Prodigy-Blockchain-Explorer) and the [wallet api project](https://github.com/rsmiller/Prodigy-Blockchain-Wallet-Api).
-
 Mining is simply an audit mechanism and doesn't need to exist outside of auditing in this use case. However, for marketability, mining allows employees of a company to earn tokens/coins that can be spent for days off, company merchandise, or whatever in a company store. How this is done is in the [block explorer project](https://github.com/rsmiller/Prodigy-Blockchain-Explorer) and the [wallet api project](https://github.com/rsmiller/Prodigy-Blockchain-Wallet-Api). 
 
 ## Miner Installation
